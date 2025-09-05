@@ -20,7 +20,7 @@ This project helps CSR teams and NGO monitoring teams quickly identify:
 - `notebooks/` — Jupyter notebooks used for cleaning & EDA.  
 - `powerbi/CSR_Dashboard.pbix` — Power BI file (open with Power BI Desktop).  
 - `screenshots/` — dashboard images for quick preview.  
-- `scripts/` — modular Python scripts to reproduce cleaning & aggregation.
+- https://www.kaggle.com/code/harshvardhansinghs/csr-2024-annual-report-clean/edit -  Python scripts to reproduce cleaning & aggregation.
 
 ## How to view (non-technical HR)
 1. Open `executive_summary.pdf` (one page).  
