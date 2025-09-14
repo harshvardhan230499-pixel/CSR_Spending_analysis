@@ -2,13 +2,13 @@
 
 Interactive dashboard and analysis of CSR spending in India (2018–19 to 2022–23), sector-wise & state-wise — built with Python (pandas) and Power BI.
 
-## Why this matters (for CSR / NGOs)
+## Why this matters?
 This project helps CSR teams and NGO monitoring teams quickly identify:
 - Top sectors (Education, Healthcare) and their share of CSR spending.
 - State-level concentration of CSR funds (useful for strategic field placements).
 - 5-year spending trend to guide multi-year strategy or CSR funding decisions.
 
-## Key insights (highlights)
+## Key insights 
 - Total CSR (2018–23): ₹126,000+ crores (aggregated).  
 - Education & Healthcare together account for ~53% of CSR spend.  
 - Overall CSR funding rose ~38.6% from 2018–19 to 2022–23.
@@ -22,7 +22,7 @@ This project helps CSR teams and NGO monitoring teams quickly identify:
 - `screenshots/` — dashboard images for quick preview.  
 - https://www.kaggle.com/code/harshvardhansinghs/csr-2024-annual-report-clean/edit -  Python scripts to reproduce cleaning & aggregation.
 
-## How to view (non-technical HR)
+## How to view
 1. Open `executive_summary.pdf` (one page).  
 2. Look at `screenshots/` for immediate visual insights.  
 3. If you want the interactive dashboard, either:
